@@ -31,7 +31,7 @@ $ npm install
 $ npm rebuild node-sass
 $ npm start
 ```
-11. Now from your Atom IDE, open "portfolio-website".
+11. Now from your Atom IDE, open `username.github.io`.
 12. [Add the atom-live-server package](https://atom.io/packages/atom-live-server).
 13. enter `ctrl-alt-l` with your keyboard.
 14. go to `locahost://3000` in a browser of your choice (if one doesn't open up for you) and marvel at what is being rendered from your starter code. __DON'T WORRY -__ you will get a chance to customize the site later on in the workshop. But first ...
@@ -41,7 +41,7 @@ $ npm start
 #
 #
 ## __Hour 2__ 
-### Part 2: Customize the Site with [Bulma](http://bulma.io)
+### Part 2: Customize with [Bulma](http://bulma.io)
 1. Now return to your Atom IDE and follow along with the instructor in this __*live coding*__ session. The goal here is to get you familiar with Bulma's file structure as well as Bulma's syntax for using its various components.
 
 Once you are more or less happy with how your site looks in `localhost://3000`, it is now time to "push" these new changes up to your newly created GitHub account. 
@@ -54,7 +54,7 @@ $ git add --all
 $ git commit -m "Initial commit"
 $ git push -u origin master
 ```
-3. … and you're done! Fire up a browser and go to https://username.github.io. Do a little dance to celebrate your very first website!
+3. … and you're done! Fire up a browser and go to `https://username.github.io`. Do a little dance to celebrate your very first website!
 #
 _Refer to [GitHub Pages](https://pages.github.com/) if you want to change the url to a custom domain name of yours, among other things._
-_And don't forget to check out all the other links for future reference. They can be found in the workshop slides that will be emailed to you._
+_And don't forget to check out all the other cool links for your benefit. They can be found in the workshop slides that will be emailed to you. **You're Welcome :)**_

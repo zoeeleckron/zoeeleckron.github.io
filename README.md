@@ -47,7 +47,7 @@ $ npm start
 
 ## __Hour 2__
 ### Part 2: Customize with [Bulma](http://bulma.io)
-1. Now return to your Atom IDE and follow along with the instructor in this __*live coding*__ session. The goal here is to get you familiar with Bulma's file structure as well as Bulma's syntax for using its various components.
+1. Now return to your Atom IDE and follow along with Zoee in this interactive __*LIVE coding*__ session. The goal here is to get you familiar with Bulma's file structure as well as Bulma's syntax for using its various components.
 
 Once you are more or less happy with how your site looks in `localhost://3000`, it is now time to "push" these new changes up to your newly created GitHub account. 
 

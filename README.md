@@ -6,9 +6,8 @@
 ### Location: ITE 231
 ### What to Bring: Your Personal Laptop
 ---
----
 # WORKSHOP AGENDA
----
+
 ## __Hour 1__
 ### Part 1a: Setting Up  
 1. [Download Node.js](https://nodejs.org/en/download/).
@@ -44,7 +43,8 @@ $ npm start
 
 
 
----
+##
+
 ## __Hour 2__
 ### Part 2: Customize with [Bulma](http://bulma.io)
 1. Now return to your Atom IDE and follow along with Zoee in this interactive __*LIVE coding*__ session. The goal here is to get you familiar with Bulma's file structure as well as Bulma's syntax for using its various components.

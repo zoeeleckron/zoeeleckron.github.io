@@ -25,6 +25,8 @@
 ###
 ```sh
 $ cd <path to folder containing Website folder>/Websites
+$ git config --global user.email "Your Email associated w/ GitHub"
+$ git config --global user.name "Your Full Name"
 $ git clone https://github.com/username/username.github.io
 $ cd username.github.io
 $ npm install
